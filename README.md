@@ -1,4 +1,4 @@
-Black Scholes Model Implementation in C#
+## Black Scholes Model Implementation in C# using Winforms
 
 Overview
 This project provides an implementation of the Black Scholes Model using C#. The Black Scholes Model is a widely used mathematical model for pricing options contracts. With this implementation, 
@@ -13,9 +13,19 @@ TimePeriod: Time to expiration of the option, in years.
 RateofInterest: Annual risk-free interest rate.
 roh_Volatility: Volatility of the underlying stock.
 
-## 
-WinForms Interface: The application utilizes WinForms, part of the .NET Framework, to provide an interactive interface for users to input instrument values and obtain option premiums.
+## WinForms Interface:
+The application utilizes WinForms, part of the .NET Framework, to provide an interactive interface for users to input instrument values and obtain option premiums.
 <img width="512" alt="BSM" src="https://github.com/Coderixc/BlackScholesModel/assets/40321363/baa2e0bf-afa0-4040-9c40-51beccce4589">
+
+
+
+
+
+
+
+
+
+
 
 ## Note:
 Ensure that all input parameters are accurate and consistent with financial market conventions to obtain reliable results.
