@@ -13,9 +13,13 @@ TimePeriod: Time to expiration of the option, in years.
 RateofInterest: Annual risk-free interest rate.
 roh_Volatility: Volatility of the underlying stock.
 
+## 
+WinForms Interface: The application utilizes WinForms, part of the .NET Framework, to provide an interactive interface for users to input instrument values and obtain option premiums.
+<img width="512" alt="BSM" src="https://github.com/Coderixc/BlackScholesModel/assets/40321363/baa2e0bf-afa0-4040-9c40-51beccce4589">
 
-
-
+## Note:
+Ensure that all input parameters are accurate and consistent with financial market conventions to obtain reliable results.
+In case of any errors during computation, the application handles exceptions and provides appropriate error messages.
 
 ## Contributions
 Contributions and feedback are welcome! If you find any bugs, have suggestions for improvements, or want to contribute additional features, feel free to open an issue or submit a pull request.
