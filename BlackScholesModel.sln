@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackScholesModel", "BlackScholesModel\BlackScholesModel.csproj", "{6723F47B-33F8-4440-9375-094DA960B519}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6723F47B-33F8-4440-9375-094DA960B519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6723F47B-33F8-4440-9375-094DA960B519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6723F47B-33F8-4440-9375-094DA960B519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6723F47B-33F8-4440-9375-094DA960B519}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB2C3350-5F78-46EF-B137-F00FAE557617}
+	EndGlobalSection
+EndGlobal
