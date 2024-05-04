@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
 
@@ -25,13 +18,13 @@ namespace BlackScholesModel
         public Form1()
         {
             InitializeComponent();
-            StopformResizing();
+            StopFormResizing();
             this.AdditemtoCombobox();
             FillDefaultperiod();
 
         }
 
-        private void StopformResizing()
+        private void StopFormResizing()
         {
             this.MaximizeBox = false;
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
